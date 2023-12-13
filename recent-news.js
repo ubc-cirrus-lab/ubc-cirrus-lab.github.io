@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+December \'23 - Ghazal successfully defended her MASc thesis defense!\
+</li>\
+<li>\
 November \'23 - Viktor from ETHZ joined us as a vising Master\'s student! He is a <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-award" target="_blank">Mitacs GRA</a> recepient.\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ September \'23 - Daniel, Mohammad Amin, and Changyuan Kick Off! [<a href="./arti
 </li>\
 <li>\
 September \'23 - <a href="./papers/socc23_parrotfish.pdf" target="_blank">Our paper</a> made it to <a href="https://acmsocc.org/2023/" target="_blank">ACM SoCC \'23</a>. Congrats to Arshia, Joe, Alex, and Mehdi!\
-</li>\
-<li>\
-May \'23 - Team secures two papers in <a href="https://www.usenix.org/conference/atc23" target="_blank">USENIX ATC \'23</a>, including one in collaboration with <a href="https://sns.cs.princeton.edu/" target="_blank">Princeton SNS group</a>.\
 </li>\
 </ul>\
 ');
