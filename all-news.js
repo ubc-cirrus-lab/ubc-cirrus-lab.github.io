@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+January \'24 - Nalin and Nima won the 3rd Place Distinguished Poster Award at the 2024 ECE Research Day!\
+</li>\
+<li>\
 December \'23 - Congrats to Ghazal for successfully defending her MASc thesis!\
 </li>\
 <li>\

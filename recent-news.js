@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+January \'24 - Nalin and Nima won the 3rd Place Distinguished Poster Award at the 2024 ECE Research Day!\
+</li>\
+<li>\
 December \'23 - Congrats to Ghazal for successfully defending her MASc thesis!\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ October \'23 - Changyuan receives the UBC GSI award for 2023. He is already a <a
 </li>\
 <li>\
 September \'23 - Daniel, Mohammad Amin, and Changyuan Kick Off! [<a href="./articles/23_09_08_introducing.html" target="_blank">more details</a>]\
-</li>\
-<li>\
-September \'23 - <a href="./papers/socc23_parrotfish.pdf" target="_blank">Our paper</a> made it to <a href="https://acmsocc.org/2023/" target="_blank">ACM SoCC \'23</a>. Congrats to Arshia, Joe, Alex, and Mehdi!\
 </li>\
 </ul>\
 ');
