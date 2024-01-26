@@ -1,7 +1,7 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
-January \'24 - Arshia receives the UBC GSI award!\
+January \'24 - Arshia and Daniel receive UBC GSI awards!\
 </li>\
 <li>\
 January \'24 - Nalin and Nima won the 3rd Place Distinguished Poster Award at the 2024 ECE Research Day!\
