@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+April \'24 - Changyuan receives the BC Graduate Scholarships.\
+</li>\
+<li>\
 January \'24 - Arshia and Daniel receive UBC GSI awards!\
 </li>\
 <li>\
