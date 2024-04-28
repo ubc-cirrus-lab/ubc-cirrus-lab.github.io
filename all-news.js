@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+April \'24 - Changyuan receives the prestigious <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp" target="_blank">CGS-D</a> scholarship.\
+</li>\
+<li>\
 April \'24 - Changyuan receives the BC Graduate Scholarships.\
 </li>\
 <li>\
