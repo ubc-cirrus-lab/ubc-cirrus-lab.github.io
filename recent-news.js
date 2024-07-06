@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+July \'24 - Congrats to Nalin for successfully defending his MASc thesis! (<a href="https://www.flickr.com/photos/194704428@N02/53838355452/in/datetaken-public/" target="_blank">photo</a>)\
+</li>\
+<li>\
 June \'24 - Changyuan\'s paper is accepted to <a href="https://hotcarbon.org/" target="_blank">HotCarbon \'24</a>!\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ April \'24 - Changyuan receives the prestigious <a href="https://www.nserc-crsng
 </li>\
 <li>\
 April \'24 - Changyuan receives the BC Graduate Scholarships.\
-</li>\
-<li>\
-January \'24 - Arshia and Daniel receive UBC GSI awards!\
 </li>\
 </ul>\
 ');
