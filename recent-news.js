@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+August \'24 - Our team has a paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">SOSP \'24</a>!\
+</li>\
+<li>\
 July \'24 - Congrats to Nalin for successfully defending his MASc thesis! (<a href="https://www.flickr.com/photos/194704428@N02/53838355452/in/datetaken-public/" target="_blank">photo</a>)\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ June \'24 - Arshia gave a talk at the <a href="https://www.serverlesscomputing.o
 </li>\
 <li>\
 April \'24 - Changyuan receives the prestigious <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp" target="_blank">CGS-D</a> scholarship.\
-</li>\
-<li>\
-April \'24 - Changyuan receives the BC Graduate Scholarships.\
 </li>\
 </ul>\
 ');

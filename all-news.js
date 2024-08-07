@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+August \'24 - Our team has a paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">SOSP \'24</a>!\
+</li>\
+<li>\
 July \'24 - Congrats to Nalin for successfully defending his MASc thesis! (<a href="https://www.flickr.com/photos/194704428@N02/53838355452/in/datetaken-public/" target="_blank">photo</a>)\
 </li>\
 <li>\
