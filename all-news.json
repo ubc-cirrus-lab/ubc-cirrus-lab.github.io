@@ -1,4 +1,8 @@
 {
+    "24-09_4": {
+        "date":"September '24",
+        "content":"Our vision paper with MIT and UMass researchers is accepted to <a href=\"https://acmsocc.org/2024/\" target=\"_blank\">SoCC '24</a>."
+    },
     "24-09_3": {
         "date":"September '24",
         "content":"Congrats to Arshia for successfully defending his MASc thesis! (<a href=\"https://www.flickr.com/photos/194704428@N02/53997526399/in/datetaken-public/\" target=\"_blank\">photo</a>)"
@@ -13,7 +17,7 @@
     },
     "24-08_1": {
         "date":"August '24",
-        "content":"Our team has a paper accepted to <a href=\"https://sigops.org/s/conferences/sosp/2024/\" target=\"_blank\">SOSP '24</a>!"
+        "content":"Our team has a <a href=\"./papers/sosp24_caribou.pdf\">paper</a> accepted to <a href=\"https://sigops.org/s/conferences/sosp/2024/\" target=\"_blank\">SOSP '24</a>!"
     },
     "24-07_1": {
         "date":"July '24",
