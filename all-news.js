@@ -10,7 +10,7 @@ September \'24 - Congrats to Arshia for successfully defending his MASc thesis! 
 September \'24 - Our paper is accepted to <a href="https://sp2025.ieee-security.org/" target="_blank">IEEE S&P (Oakland)</a>!\
 </li>\
 <li>\
-September \'24 - Shuo Zhang joins our team, and already won the UBC BPOC Graduate Excellence Award!\
+September \'24 - Shuo Zhang joins our team, and already won the UBC BPOC Graduate Excellence Award! [<a href="./articles/24_11_01_introducing.html">more details</a>]\
 </li>\
 <li>\
 August \'24 - Our team has a <a href="./papers/sosp24_caribou.pdf">paper</a> accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">SOSP \'24</a>!\
@@ -46,7 +46,7 @@ November \'23 - Viktor from ETHZ joined us as a vising Master\'s student! He is 
 October \'23 - Changyuan receives the UBC GSI award for 2023. He is already a <a href="https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf" target="_blank">UBC 4YF</a> scholar!\
 </li>\
 <li>\
-September \'23 - Daniel, Mohammad Amin, and Changyuan Kick Off! [<a href="./articles/23_09_08_introducing.html" target="_blank">more details</a>]\
+September \'23 - Daniel, Mohammad Amin, and Changyuan Kick Off! [<a href="./articles/23_09_08_introducing.html">more details</a>]\
 </li>\
 <li>\
 September \'23 - <a href="./papers/socc23_parrotfish.pdf" target="_blank">Our paper</a> made it to <a href="https://acmsocc.org/2023/" target="_blank">ACM SoCC \'23</a>. Congrats to Arshia, Joe, Alex, and Mehdi!\
@@ -58,13 +58,13 @@ May \'23 - Team secures two papers in <a href="https://www.usenix.org/conference
 September \'22 - Joe Hattori joins as visiting research student from the University of Tokyo. (more on the <a href="https://global.ubc.ca/go-global/coming-ubc-study-abroad/visiting-international-research-students-virs" target="_blank">UBC VIRS program</a>)\
 </li>\
 <li>\
-September \'22 - Welcoming Nima and Arshia! [<a href="./articles/22_09_05_introducing.html" target="_blank">more details</a>]\
+September \'22 - Welcoming Nima and Arshia! [<a href="./articles/22_09_05_introducing.html">more details</a>]\
 </li>\
 <li>\
 May \'22 - Excited to have Dr. Mohamed Elsakhawy join us as an Adjunct Professor.\
 </li>\
 <li>\
-September \'21 - Ghazal and Nalin officially started! [<a href="./articles/21_09_03_introducing.html" target="_blank">more details</a>]\
+September \'21 - Ghazal and Nalin officially started! [<a href="./articles/21_09_03_introducing.html">more details</a>]\
 </li>\
 <li>\
 August \'21 - Two of our papers are accepted to SoCC \'21! UBC has four papers at this year\'s SoCC!\

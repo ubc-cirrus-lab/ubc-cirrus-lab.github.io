@@ -10,7 +10,7 @@ September \'24 - Congrats to Arshia for successfully defending his MASc thesis! 
 September \'24 - Our paper is accepted to <a href="https://sp2025.ieee-security.org/" target="_blank">IEEE S&P (Oakland)</a>!\
 </li>\
 <li>\
-September \'24 - Shuo Zhang joins our team, and already won the UBC BPOC Graduate Excellence Award!\
+September \'24 - Shuo Zhang joins our team, and already won the UBC BPOC Graduate Excellence Award! [<a href="./articles/24_11_01_introducing.html">more details</a>]\
 </li>\
 <li>\
 August \'24 - Our team has a <a href="./papers/sosp24_caribou.pdf">paper</a> accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">SOSP \'24</a>!\
