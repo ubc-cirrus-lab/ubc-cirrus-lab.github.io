@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+December \'24 - Congrats to Nima on defending his MASc thesis!\
+</li>\
+<li>\
 September \'24 - Our vision paper with MIT and UMass researchers is accepted to <a href="https://acmsocc.org/2024/" target="_blank">SoCC \'24</a>.\
 </li>\
 <li>\
