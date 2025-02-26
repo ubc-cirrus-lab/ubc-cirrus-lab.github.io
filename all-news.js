@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+January \'25 - Welcoming Hanan Awwad to the team!\
+</li>\
+<li>\
 December \'24 - Congrats to Nima on defending his MASc thesis!\
 </li>\
 <li>\
