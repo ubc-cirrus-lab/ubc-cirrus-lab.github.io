@@ -1,4 +1,8 @@
 {
+    "25-01_2": {
+        "date":"February '25",
+        "content":"Congrats to Hanan and Changyuan for their accepted <a href=\"https://sesame25.github.io/\" target=\"_blank\">SESAME</a> workshop <a href=\"./papers/sesame25_awwad.pdf\" target=\"_blank\">paper</a>."
+    },
     "25-01_1": {
         "date":"January '25",
         "content":"Welcoming Hanan Awwad to the team!"
@@ -9,7 +13,7 @@
     },
     "24-09_4": {
         "date":"September '24",
-        "content":"Our vision paper with MIT and UMass researchers is accepted to <a href=\"https://acmsocc.org/2024/\" target=\"_blank\">SoCC '24</a>."
+        "content":"Our <a href=\"./papers/socc24-sunk-carbon-fallacy.pdf\" target=\"_blank\">vision paper</a> with MIT and UMass researchers is accepted to <a href=\"https://acmsocc.org/2024/\" target=\"_blank\">SoCC '24</a>."
     },
     "24-09_3": {
         "date":"September '24",
