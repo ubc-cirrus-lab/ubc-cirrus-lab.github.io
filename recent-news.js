@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+August \'25 - Congrats to the team on having two papers accepted at ACM EuroSys \'26.\
+</li>\
+<li>\
 July \'25 - We are honored to host <a href="https://lig-membres.imag.fr/tchanaa/index.html" target="_blank">Prof. Alain Tchana</a> through the <a href="https://francecanadaculture.org/mourou-strickland-mobility-program/" target="_blank">Mourou-Strickland Mobility Program</a>.\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ February \'25 - Congrats to Hanan and Changyuan for their accepted <a href="http
 </li>\
 <li>\
 January \'25 - Welcoming Hanan Awwad to the team!\
-</li>\
-<li>\
-December \'24 - Congrats to Nima on defending his MASc thesis!\
 </li>\
 </ul>\
 ');
