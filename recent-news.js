@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+December \'25 - We\'re excited to have our paper accepted at NSDI \'26.\
+</li>\
+<li>\
 August \'25 - Congrats to the team on having two papers accepted at ACM EuroSys \'26.\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ June \'25 - Praveen gave a talk at <a href="https://www.serverlesscomputing.org/
 </li>\
 <li>\
 February \'25 - Congrats to Hanan and Changyuan for their accepted <a href="https://sesame25.github.io/" target="_blank">SESAME</a> workshop <a href="./papers/sesame25_awwad.pdf" target="_blank">paper</a>.\
-</li>\
-<li>\
-January \'25 - Welcoming Hanan Awwad to the team!\
 </li>\
 </ul>\
 ');

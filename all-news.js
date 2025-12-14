@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+December \'25 - We\'re excited to have our paper accepted at NSDI \'26.\
+</li>\
+<li>\
 August \'25 - Congrats to the team on having two papers accepted at ACM EuroSys \'26.\
 </li>\
 <li>\
