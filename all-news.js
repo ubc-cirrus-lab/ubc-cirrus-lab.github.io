@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+March \'26 - Our paper got accepted to 2026 ACM e-Energy.\
+</li>\
+<li>\
 December \'25 - We\'re excited to have our paper accepted at NSDI \'26.\
 </li>\
 <li>\
