@@ -1,19 +1,19 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+May \'26 - We presented Wasabi at NSDI \'26.\
+</li>\
+<li>\
+April \'26 - <a href="https://www.flickr.com/photos/194704428@N02/55244081793/in/datetaken-public/" target="_blank">Changyuan</a> and <a href="https://www.flickr.com/photos/194704428@N02/55244176364/in/datetaken-public/" target="_blank">Nima</a> presented their papers at EuroSys \'26.\
+</li>\
+<li>\
+April \'26 - Mohammad delivered a <a href="https://cirrus.ece.ubc.ca/talks/26_sesame_keynote_shahrad.pdf" target="_blank">keynote</a> at the 4th SESAME workshop (EuroSys \'26).\
+</li>\
+<li>\
+March \'26 - Our project is accepted to the 2025 Campus as a Living Lab (CLL) Fund Competition.\
+</li>\
+<li>\
 March \'26 - Our paper got accepted to 2026 ACM e-Energy.\
-</li>\
-<li>\
-December \'25 - We\'re excited to have our paper accepted at NSDI \'26.\
-</li>\
-<li>\
-August \'25 - Congrats to the team on having two papers accepted at ACM EuroSys \'26.\
-</li>\
-<li>\
-July \'25 - We are honored to host <a href="https://lig-membres.imag.fr/tchanaa/index.html" target="_blank">Prof. Alain Tchana</a> through the <a href="https://francecanadaculture.org/mourou-strickland-mobility-program/" target="_blank">Mourou-Strickland Mobility Program</a>.\
-</li>\
-<li>\
-June \'25 - Praveen gave a talk at <a href="https://www.serverlesscomputing.org/woscx4/program.html" target="_blank">WOSCx4</a>. (<a href="https://www.serverlesscomputing.org/woscx4/presentations/t5-WoSC-Praveen%20Gupta-Growlithe_A%20Developer-Centric%20Compliance%20Tool%20for%20Serverless%20Applications.pdf" target="_blank">slides</a>).\
 </li>\
 </ul>\
 ');
