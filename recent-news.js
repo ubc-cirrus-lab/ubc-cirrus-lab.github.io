@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+May \'26 - Daniel and Amin successfully defended their MASc theses.\
+</li>\
+<li>\
 May \'26 - We presented Wasabi at NSDI \'26.\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ April \'26 - Mohammad delivered a <a href="https://cirrus.ece.ubc.ca/talks/26_se
 </li>\
 <li>\
 March \'26 - Our project is accepted to the 2025 Campus as a Living Lab (CLL) Fund Competition.\
-</li>\
-<li>\
-March \'26 - Our paper got accepted to 2026 ACM e-Energy.\
 </li>\
 </ul>\
 ');

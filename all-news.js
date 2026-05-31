@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+May \'26 - Daniel and Amin successfully defended their MASc theses.\
+</li>\
+<li>\
 May \'26 - We presented Wasabi at NSDI \'26.\
 </li>\
 <li>\
