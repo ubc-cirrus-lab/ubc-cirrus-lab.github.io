@@ -1,6 +1,12 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+July \'26 - Our work was presented at HotCarbon \'26.\
+</li>\
+<li>\
+June \'26 - Zihan presented our paper at ACM e-Energy \'26.\
+</li>\
+<li>\
 May \'26 - Daniel and Amin successfully defended their MASc theses.\
 </li>\
 <li>\
