@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+July \'26 - Congrats to Changyuan for accepted papers at eBPF and APSys workshops.\
+</li>\
+<li>\
 July \'26 - Our work was presented at HotCarbon \'26.\
 </li>\
 <li>\
