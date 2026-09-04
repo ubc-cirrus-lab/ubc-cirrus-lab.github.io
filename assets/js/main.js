@@ -75,7 +75,13 @@
 
 						var	$this = $(this),
 							id = $this.attr('href'),
-							$section = $(id);
+							$section;
+
+						// External link (not an in-page anchor)? Bail.
+							if (!id || id.charAt(0) != '#' || id.length < 2)
+								return;
+
+						$section = $(id);
 
 						// No section for this link? Bail.
 							if ($section.length < 1)
