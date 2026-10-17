@@ -1,4 +1,8 @@
 {
+    "26-10_1": {
+        "date":"October '26",
+        "content":"Congrats to Changyuan for successfully passing his PhD candidacy exam."
+    },
     "26-07_2": {
         "date":"July '26",
         "content":"Congrats to Changyuan for accepted papers at eBPF and APSys workshops."
@@ -17,7 +21,7 @@
     },
     "26-05_1": {
         "date":"May '26",
-        "content":"We presented Wasabi at NSDI '26."
+        "content":"We presented Wasabi at NSDI '26. (<a href=\"https://www.youtube.com/watch?v=87jUDykMtXU\" target=\"_blank\">recording</a>)"
     },
     "26-04_2": {
         "date":"April '26",

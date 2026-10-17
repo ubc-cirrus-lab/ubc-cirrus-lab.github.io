@@ -1,6 +1,9 @@
 document.write('\
 <ul style="text-align: left;vertical-align: top;">\
 <li>\
+October \'26 - Congrats to Changyuan for successfully passing his PhD candidacy exam.\
+</li>\
+<li>\
 July \'26 - Congrats to Changyuan for accepted papers at eBPF and APSys workshops.\
 </li>\
 <li>\
@@ -13,7 +16,7 @@ June \'26 - Zihan presented our paper at ACM e-Energy \'26.\
 May \'26 - Daniel and Amin successfully defended their MASc theses.\
 </li>\
 <li>\
-May \'26 - We presented Wasabi at NSDI \'26.\
+May \'26 - We presented Wasabi at NSDI \'26. (<a href="https://www.youtube.com/watch?v=87jUDykMtXU" target="_blank">recording</a>)\
 </li>\
 <li>\
 April \'26 - <a href="https://www.flickr.com/photos/194704428@N02/55244081793/in/datetaken-public/" target="_blank">Changyuan</a> and <a href="https://www.flickr.com/photos/194704428@N02/55244176364/in/datetaken-public/" target="_blank">Nima</a> presented their papers at EuroSys \'26.\
